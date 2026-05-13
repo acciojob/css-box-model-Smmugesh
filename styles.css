@@ -1,7 +1,11 @@
-.box-model {
+#box-model1{
+	border: 15px solid blue;
+}
+
+
+#box-model2{
   width: 300px;
   background-color: lightblue;
-  border: 15px solid blue;
   padding: 50px;
   margin: 20px;
 }
